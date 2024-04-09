@@ -1,2 +1,3 @@
 # Divyansh-demo
-this is my first repository
+This is my first git Repository
+Author - Divyansh Goel
